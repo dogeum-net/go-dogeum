@@ -32,7 +32,6 @@ import (
 	"os"
 	"sort"
 	"strconv"
-
 	"github.com/dogeum-net/go-dogeum/core"
 	"github.com/dogeum-net/go-dogeum/rlp"
 )
